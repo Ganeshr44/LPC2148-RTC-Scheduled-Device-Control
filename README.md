@@ -129,7 +129,7 @@ Normal Operation
 
 ### 🔄 Workflow Diagram
 
-![LPC2148 Workflow Diagram](Proteus/Flowdiagram.jpeg)
+![LPC2148 Workflow Diagram](Proteus/LPC2148 RTC Device Control Workflow.png)
 
 ### 📺 LCD Interface
 
