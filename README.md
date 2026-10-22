@@ -133,7 +133,7 @@ Normal Operation
 
 ### 📺 LCD Interface
 
-![LPC2148 LCD Interface](Hardware/Hardware.jpeg)
+![LPC2148 LCD Interface](Proteus/LPC2148_LCD.png)
 
 ### 📋 Main Menu
 
@@ -213,7 +213,7 @@ When the switch is pressed, an external interrupt is generated. The interrupt se
 ## 📺 LCD Setup
 
 <p align="center">
-  <img src="Proteus/LPC2148_LCD.png" width="600">
+  <img src="Hardware/Hardware.jpeg" width="600">
 </p>
 
 ---
