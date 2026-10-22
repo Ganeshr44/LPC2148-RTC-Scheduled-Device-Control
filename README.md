@@ -133,7 +133,7 @@ Normal Operation
 
 ### 📺 LCD Interface
 
-![LPC2148 LCD Interface](Proteus/LPC2148_LCD.png)
+![LPC2148 LCD Interface](Hardware/Hardware.jpeg)
 
 ### 📋 Main Menu
 
